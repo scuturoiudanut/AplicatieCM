@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Modivo</string>
+    <string name="button_main">button_main</string>
+    <string name="vezi_produsele">Produse</string>
+    <string name="activity2_name">Produse</string>
+    <string name="text_header">Toate Produsele</string>
+    <string name="text_header2">Reduceri</string>
+    <string name="editText_main">Descopera noua colectie</string>
+    <string name="textPersonName">MODIVO</string>
+    <string name="intro_text">Laptops and Phones</string>
+    <string name="intro_text2">PRODUSE</string>
+    <string name="pc_monitors">Incarcator laptop</string>
+
+    <string name="phone_description">IPhone 13 </string>
+    <string name="laptop">Lenovo SM491A</string>
+
+    <string name="accesorii_laptop_message">You ordered accessories</string>
+    <string name="telefon_message">You ordered a telephone.</string>
+    <string name="laptop_message">You ordered a laptop.</string>
+
+</resources>
